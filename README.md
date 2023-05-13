@@ -5,12 +5,6 @@ DESPRICTION:
        A Simple Java Programming
 Software Used:
             * Eclipse idle for java
-Concepts Used For:
-            * If-else Condition
-            * Oops Concept
-            * 
-Packages used for:
-            * import java.util.*
 INPUT;
 Excepted input like:
 ____________________________________________________________________________________
