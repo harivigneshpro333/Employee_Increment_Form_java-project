@@ -3,6 +3,14 @@
 DESPRICTION:
        Its a increment salary can view in this project in our organization and Just 
        A Simple Java Programming
+Software Used:
+            * Eclipse idle for java
+Concepts Used For:
+            * If-else Condition
+            * Oops Concept
+            * 
+Packages used for:
+            * import java.util.*
 INPUT;
 Excepted input like:
 ____________________________________________________________________________________
@@ -21,7 +29,7 @@ Enter Here;
 Enter the Experience;
           6
 Enter the user input by Name,Job role and Year of Experience.ne
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+____________________________________________________________________________________
 OUTPUT;
 ____________________________________________________________________________________
 Give output in console like below;
@@ -32,7 +40,8 @@ Give output in console like below;
                        😉😁Congrats😉😁
                        😉😁🤗Then You are 6 years graduated in Our Organization😉😁🤗
                        😁🤗So graduated Incentives 6000 will upgrade in your Next month Salary😁🤗
-                       And Your Increment Salary  is → 60000
+                       And
+                       Your Increment Salary  is → 60000
                        😁🤗!Thank You!😁🤗 For Visiting  My Page😁
 ____________________________________________________________________________________
           PROGRAM KEYS:    
